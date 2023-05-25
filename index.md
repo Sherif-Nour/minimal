@@ -12,11 +12,12 @@ There should be whitespace between paragraphs. We recommend including a README, 
 
 # Fraud Detection Project
 This Project was created and developed as a part of module "Introduction to Git & GitHub" in Course1 "Data Analysis and Visualization" 
-## Header 2
+
+## Adding file: data_processing.py
 
 > This is a blockquote following a header.
 >
-> When something is important enough, you do it even if the odds are not in your favor.
+> Adding a piece of code for 
 
 ### Header 3
 
