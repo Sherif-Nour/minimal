@@ -15,12 +15,12 @@ This Project was created and developed as a part of module "Introduction to Git 
 
 ## Adding file: data_processing.py
 
-> This is a blockquote following a header.
->
-> Adding a piece of code for 
+> Adding a piece of code for calculating a math equation in Python, then committing then adding this file to my Git repository.  
 
-### Header 3
+## Adding file: ml_modelpy
 
+> A Python code for identifying different data models and selecting the best performance model.
+> 
 ```js
 // Javascript code with syntax highlighting.
 var fun = function lang(l) {
